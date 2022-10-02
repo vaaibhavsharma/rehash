@@ -1,4 +1,8 @@
 # Rehash 🎶
+![issues](https://img.shields.io/github/issues/vaaibhavsharma/rehash?style=flat-square)
+[![GitHub forks](https://img.shields.io/github/forks/vaaibhavsharma/rehash)](https://github.com/vaaibhavsharma/rehash/network?style=flat-square)
+[![GitHub stars](https://img.shields.io/github/stars/vaaibhavsharma/rehash)](https://github.com/vaaibhavsharma/rehash/stargazers?style=flat-square)
+![Python](https://img.shields.io/badge/python-v3.8+-blue.svg?style=flat-square&logo=python)
 
 We all know YouTube's recommendation system is miles ahead of Spotify or any other platform
 
