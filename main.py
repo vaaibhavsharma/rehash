@@ -5,7 +5,7 @@ import google_auth_oauthlib.flow
 import googleapiclient.discovery
 import googleapiclient.errors
 from env.apiKeys import *
-
+from tqdm import tqdm
 
 songs_id_youtube = []
 songs_name = []
@@ -38,7 +38,7 @@ def make_playlist(name):
     res = create_playlist.execute()
     playlistID = res['id']
     # Tried Batch request but no luck, So simple, old-school way
-    for i in songs_id_youtube:
+    for i in tqdm(songs_id_youtube, desc= "Loading Your Songs!"):
         try:
             req = youtube.playlistItems().insert(
                 part="snippet",

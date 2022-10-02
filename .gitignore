@@ -12,6 +12,7 @@ env
 .idea/**/usage.statistics.xml
 .idea/**/dictionaries
 .idea/**/shelf
+.cache
 
 .idea
 # AWS User-specific
