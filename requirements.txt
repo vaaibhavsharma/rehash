@@ -11,8 +11,8 @@ google-auth-oauthlib==0.5.1
 googleapis-common-protos==1.56.0
 httplib2==0.20.4
 idna==3.3
-oauthlib==3.2.0
-protobuf==3.20.0
+oauthlib>=3.2.1
+protobuf>=3.20.2
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
 pyparsing==3.0.8
