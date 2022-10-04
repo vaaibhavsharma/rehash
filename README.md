@@ -1,4 +1,6 @@
 # Rehash 🎶
+![logo](https://user-images.githubusercontent.com/114934987/193757087-1635ef98-3f28-49ed-89d7-2450ea67abc1.png)
+
 ![issues](https://img.shields.io/github/issues/vaaibhavsharma/rehash?style=flat-square)
 [![GitHub forks](https://img.shields.io/github/forks/vaaibhavsharma/rehash)](https://github.com/vaaibhavsharma/rehash/network?style=flat-square)
 [![GitHub stars](https://img.shields.io/github/stars/vaaibhavsharma/rehash)](https://github.com/vaaibhavsharma/rehash/stargazers?style=flat-square)
