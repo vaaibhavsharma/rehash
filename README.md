@@ -1,3 +1,5 @@
+<p><img src="/gitassests/logo.png" ></p>
+
 # Rehash 🎶
 ![issues](https://img.shields.io/github/issues/vaaibhavsharma/rehash?style=flat-square)
 [![GitHub forks](https://img.shields.io/github/forks/vaaibhavsharma/rehash)](https://github.com/vaaibhavsharma/rehash/network?style=flat-square)
